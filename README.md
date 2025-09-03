@@ -2,7 +2,9 @@
 
 - npx create-vite@latest
 - install tailwind CSS
-
+- Header
+- Login Form
+- Sign up Form
 
 # Features
 - Login/Sign up
