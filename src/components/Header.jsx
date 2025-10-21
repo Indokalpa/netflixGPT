@@ -59,14 +59,14 @@ const Header = () => {
   }, []);
 
   return (
-    <div className='absolute w-screen px-8 py-2 bg-gradient-to-b from-black z-10 flex justify-between'>
+    <div className='absolute w-screen px-8 py-2 bg-gradient-to-b from-black z-10 flex flex-col md:flex-row justify-between '>
       <img 
-      className='w-44'
+      className='w-44 mx-auto md:mx-0'
       alt = "logo"
       src={LOGO}
       />
 
-      {user && (<div className='flex p-2'>
+      {user && (<div className='flex p-2 justify-around'>
 
         {showGptSearch && <select className='p-1 m-2 bg-gray-900 text-white rounded-sm' onChange={handleLanguageChange}>
         {

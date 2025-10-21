@@ -39,7 +39,13 @@
 - GPT search Page
 - GPT Search Bar
 - Multi-lingual Feature in our GPT page
-- Intgrate GPT APIs
+- Integrate GPT APIs and fetch GPT movie suggestions
+- fetch suggested movies from TMDB
+- create gptSlice and add data
+- Reused Movie List component to make movie suggestion container
+- Memoization
+- add .env file, and add it to .gitignore
+- made our Site Responsive for mobile as well
 
 
 # Steps for Deployment
