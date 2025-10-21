@@ -1,0 +1,41 @@
+[33mcommit 658e9505b6c2e120f193ccedc355f507243c6124[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: indokalpa <indokalpasaikia1@gmail.com>
+Date:   Fri Oct 17 23:07:23 2025 +0530
+
+    .env file && memoization
+
+[33mcommit 384f94b6f522e3921fd17d10b59a694c78f3a712[m
+Author: indokalpa <indokalpasaikia1@gmail.com>
+Date:   Tue Oct 14 14:34:31 2025 +0530
+
+    Multi Language Support in GPT Search Page
+
+[33mcommit d9355b4dcdc31063845eb77bc71ab7671e749866[m
+Author: indokalpa <indokalpasaikia1@gmail.com>
+Date:   Sun Oct 12 15:02:05 2025 +0530
+
+    Seconday Container with movie list and usePopular movies
+
+[33mcommit 6d52922d9c467a7174162db7e9d7c16c1b9a330e[m
+Author: indokalpa <indokalpasaikia1@gmail.com>
+Date:   Sat Oct 11 22:37:28 2025 +0530
+
+    TMDB API data fetch && build MainContainer
+
+[33mcommit f39ba5743571874e6a0e47c0c1b1182c3ea9f6fd[m
+Author: indokalpa <indokalpasaikia1@gmail.com>
+Date:   Mon Oct 6 19:59:03 2025 +0530
+
+    validate && redux && auth
+
+[33mcommit b3069daa7059e8fe931aba6029032ad3918264ba[m
+Author: indokalpa <indokalpasaikia1@gmail.com>
+Date:   Wed Sep 3 21:50:11 2025 +0530
+
+    signIn/signUp form
+
+[33mcommit ea55f0195afa01a3313e57947a92c5e7ecb94b66[m
+Author: indokalpa <indokalpasaikia1@gmail.com>
+Date:   Wed Sep 3 13:49:10 2025 +0530
+
+    vite & tailwind

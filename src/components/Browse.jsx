@@ -16,7 +16,7 @@ const Browse = () => {
   useTopRatedMovies();
 
   return (
-    <div className='overscroll-none'>
+    <div>
       <Header />
       { 
       showGptSearch ? 
